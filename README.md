@@ -4,6 +4,6 @@
 
 ## Mis peliculas favoritas
 * Joker
-* El exorcista documentado
+* ~~El exorcista documentado~~ ***Esta peliula ya no esta dentro de mis favoritas***
 * La teoria del todo
 * Spiderman no way home
