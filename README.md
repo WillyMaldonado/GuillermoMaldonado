@@ -11,5 +11,5 @@
 ## Una pequeña lista de mis juegos favoritos
 1. **The last of us**
 2. _Uncharted_
-3. Monster hunter
+3. <sub>Monster hunter</sub>
 4. ***Call of duty***
